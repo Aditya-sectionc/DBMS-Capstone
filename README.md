@@ -1,7 +1,7 @@
 # Payroll & Attendance Management System (Phases 1–5)
 
-**Group Leader:** Harshwardhan (`Roll No: 2501730330`)  
-**Group Members:** Tanish Kumar, Surya Pratap, Shreshth Mathur, Aarush Rajput  
+**Group Leader:** Aditya(`Roll No: 2501730246`)  
+**Group Members:**Aditya,ankur 
 **Program:** B.Tech CSE (AI/ML) — Section C | **University:** School of Engineering & Technology, K.R. Mangalam University
 
 A complete, end-to-end relational database and role-based web application implementing all **five sequential phases** of the **Payroll & Attendance System** specification. Every phase strictly uses the immutable **Phase 1 Third Normal Form (3NF)** schema across SQL scripts, stored functions/procedures, validation triggers, indexed analytical views, RBAC security policies, ACID transactions, automated test cases, and the interactive Flask Web UI.
